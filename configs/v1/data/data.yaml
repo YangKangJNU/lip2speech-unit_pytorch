@@ -1,0 +1,15 @@
+root: ''
+filter_length: 1024
+hop_length: 160
+win_length: 640
+sampling_rate: 16000
+mel_fmin: 55.
+mel_fmax: 7500.
+min_window_size: 50
+max_window_size: 50
+use_blur: True
+blur_kernel_size: 9
+blur_sigma_min: 0.1
+blur_sigma_max: 1.0
+use_noise: True
+noise_factor: 1.0 

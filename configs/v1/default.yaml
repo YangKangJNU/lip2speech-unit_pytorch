@@ -1,0 +1,6 @@
+defaults:
+ - _self_
+ - encoder: encoder.yaml
+ - data: data.yaml
+ - train: train.yaml
+ - vocoder: vocoder.yaml

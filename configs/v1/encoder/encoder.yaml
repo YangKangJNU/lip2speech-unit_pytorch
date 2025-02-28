@@ -1,0 +1,9 @@
+num_layer: 12
+attention_dim: 512
+attention_head: 8
+kernel_size: 31
+feedforward_dim: 2048
+dropout_rate: 0.1
+unit_num: 500
+relu_type: 'swish'
+spk_dim: 256
